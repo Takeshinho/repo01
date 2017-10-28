@@ -1,0 +1,15 @@
+table.dbtables {
+	table-layout: fixed;
+}
+
+table.dbtables:hover tbody tr:hover td {
+	backgroung : #eee;
+}
+
+table.dbtables td {
+	border: 1px #000000 solid;
+}
+
+table.dbtables td.tableName1 {
+	width: 350px	;
+}
